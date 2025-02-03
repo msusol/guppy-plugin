@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# guppy-plugin Changelog
+# Guppy Changelog
 
 ## [Unreleased]
 ### Added
